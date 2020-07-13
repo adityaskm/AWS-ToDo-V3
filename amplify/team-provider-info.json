@@ -10,6 +10,14 @@
             "StackName": "amplify-awstodov3-dev-175609",
             "StackId": "arn:aws:cloudformation:ap-south-1:251869914693:stack/amplify-awstodov3-dev-175609/099f5740-c504-11ea-89ce-027feff0383e",
             "AmplifyAppId": "d3a3sev3ihfh9y"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3a3sev3ihfh9y",
+                    "type": "cicd"
+                }
+            }
         }
     }
 }
